@@ -29,9 +29,9 @@ public class Main {
 
         System.out.println();
         //Exercise 3
-        int lP = 23;
-        int aS = 27;
-        int eA = 30;
+        byte lP = 23;
+        byte aS = 27;
+        byte eA = 30;
         int paper = 480;
         float total = lP + aS + eA;
         float perStudent = paper/total;
